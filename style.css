@@ -1,0 +1,106 @@
+.foto-perfil {
+  height: 300px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nome {
+  text-align: center;
+}
+
+.nome2 {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.img-fundo {
+  background-image: url("https://i.imgur.com/YvBuouO.png");
+}
+
+.texto {
+  align: center;
+  text-align: center;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.alinhamento {
+  display: flex;
+  flex-align: column;
+  justify-content: center;
+}
+
+.separação {
+  margin-left: 20px;
+}
+
+.logo-linkedin {
+  height: 50px;
+  display: block;
+  left: 92%;
+  position: fixed;
+  margin-top: 280px;
+}
+
+.logo-hithub {
+  height: 50px;
+  display: block;
+  left: 92%;
+  position: fixed;
+  margin-top: 350px;
+}
+
+.logo-whats {
+  height: 50px;
+  display: block;
+  left: 92%;
+  position: fixed;
+  margin-top: 420px;
+}
+
+.nome-projeto {
+  text-decoration: none;
+  color: #0e3f2b;
+}
+
+.icones-titulos {
+  margin-left: 48.5%;
+  height: 35px;
+}
+
+.icones-titulos2 {
+  margin-left: 1%;
+  height: 35px;
+}
+
+.text-decoration-none {
+  text-decoration: none;
+  color: #000000;
+}
+
+.justificar-texto {
+  text-align: justify;
+}
+
+
+
+@media only screen and (max-width:1080px) {
+  
+  p{
+    font-size:30px;
+  }
+  b{
+    font-size:30px;
+  }
+  li{
+    font-size:25px;
+  }
+  h1{
+    font-size:45px;
+  }
+  }
+
