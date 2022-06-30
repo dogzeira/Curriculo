@@ -38,6 +38,10 @@
   margin-left: 20px;
 }
 
+.separação2 {
+  margin-left: 150px;
+}
+
 .logo-linkedin {
   height: 50px;
   display: block;
@@ -125,5 +129,11 @@
   }
   .logo-biocommerce{
     height:200px;
+  }
+  .espaco{
+    padding-left:11%;
+  }
+ .separação2 {
+    margin-left: 300px;
   }
 }
