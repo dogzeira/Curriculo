@@ -73,12 +73,12 @@
 
 .icones-titulos {
   margin-left: 48.5%;
-  height: 35px;
+  height: 55px;
 }
 
 .icones-titulos2 {
   margin-left: 1%;
-  height: 35px;
+  height: 55px;
 }
 
 .text-decoration-none {
@@ -107,7 +107,7 @@
     font-size: 25px;
   }
   h1 {
-    font-size: 45px;
+    font-size: 70px;
   }
   .logo-linkedin {
     margin-top: 200px;
@@ -122,10 +122,10 @@
     height: 70px;
   }
   .icones-titulos {
-    height: 50px;
+    height: 80px;
   }
  .icones-titulos2 {
-    height: 50px;
+    height: 80px;
   }
   .logo-biocommerce{
     height:200px;
