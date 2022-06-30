@@ -62,7 +62,7 @@
   margin-top: 420px;
 }
 
-.cor {
+.nome-projeto {
   text-decoration: none;
   color: #0e3f2b;
 }
@@ -90,7 +90,7 @@
   height:70px;
 }
 
-cor
+
 
 @media only screen and (max-width: 1080px) {
   p {
@@ -118,11 +118,12 @@ cor
     height: 70px;
   }
   .icones-titulos {
-    
     height: 50px;
   }
  .icones-titulos2 {
-    
     height: 50px;
+  }
+  .logo-biocommerce{
+    height:200px;
   }
 }
