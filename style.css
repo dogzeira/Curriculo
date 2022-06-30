@@ -62,7 +62,7 @@
   margin-top: 420px;
 }
 
-.nome-projeto {
+.cor {
   text-decoration: none;
   color: #0e3f2b;
 }
@@ -86,6 +86,12 @@
   text-align: justify;
 }
 
+.logo-biocommerce{
+  height:70px;
+}
+
+cor
+
 @media only screen and (max-width: 1080px) {
   p {
     font-size: 30px;
@@ -101,11 +107,22 @@
   }
   .logo-linkedin {
     margin-top: 200px;
+    height: 70px;
   }
   .logo-hithub {
     margin-top: 350px;
+    height: 70px;
   }
   .logo-whats {
     margin-top: 500px;
+    height: 70px;
+  }
+  .icones-titulos {
+    
+    height: 50px;
+  }
+ .icones-titulos2 {
+    
+    height: 50px;
   }
 }
